@@ -12,3 +12,4 @@ dependencies:
   - pyepsg
   - folium
   - rasterstats
+  - sentinelsat
